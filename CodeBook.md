@@ -5,6 +5,7 @@ This codebook describes the output `summary.txt` produced by the script `run_ana
 **Subject** refers to one of the 30 people participating in the test.
 
 **Activity** is what they did during the test.
+
 All the other variables in the table are the average of all measurements taken over the duration of the experiment on the same person for the same activity. 
 
 1. subject 
